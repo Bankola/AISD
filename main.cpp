@@ -1,6 +1,6 @@
 #include <iostream>
 #include <stdexcept>
-#include "triangle.h"
+#include "Triangle/triangle.h"
 
 int main() {
 	int h, l;
